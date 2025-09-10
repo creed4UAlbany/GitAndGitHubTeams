@@ -21,6 +21,13 @@ public class Calculator
         Scanner operands = new Scanner(System.in); 
     } 
 
+
+    public int addition(int a, int b) {
+    int sum = 0;
+    sum += a;
+    sum += b;
+    return sum;
+   }
     public int addition(int x, int y) 
     { 
        //return x + y; 
