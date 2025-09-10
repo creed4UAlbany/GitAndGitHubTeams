@@ -3,7 +3,6 @@
 // We need to learn about working in group on github
 
 package org.com;
-
 import java.lang.*; 
 import java.util.*; 
 
@@ -23,7 +22,7 @@ public class Calculator
 
     public int addition(int x, int y) 
     { 
-       //return x + y; 
+      return x+y;
     } 
     public int subtraction(int x, int y) 
     { 
