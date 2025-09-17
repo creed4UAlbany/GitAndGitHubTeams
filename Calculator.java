@@ -3,6 +3,7 @@
 // We need to learn about working in group on github
 
 package org.com;
+
 import java.lang.*; 
 import java.util.*; 
 
@@ -14,7 +15,7 @@ public class Calculator
     private char operators; 
 
     public Calculator() 
-    { 
+    {
         solution = 0; 
         Scanner operators = new Scanner(System.in); 
         Scanner operands = new Scanner(System.in); 
@@ -22,7 +23,7 @@ public class Calculator
 
     public int addition(int x, int y) 
     { 
-      return x+y;
+       return y + x; 
     } 
     public int subtraction(int x, int y) 
     { 
