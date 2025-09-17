@@ -1,0 +1,3 @@
+1 - Start a fresh branch with a clear name, like feature/login, so everyone knows what you’re working on.
+2 - In VS Code, open the GitHub Pull Requests tab and click to create a pull request for your branch.
+3 - Your teammates read through the changes, give feedback, and merge it once they’re happy.
