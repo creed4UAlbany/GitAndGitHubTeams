@@ -1,0 +1,9 @@
+Q1 - git checkout -b <new-branch-name>
+Q2 - git pull
+Q3 - staging
+Q4:
+
+a) The author intends to get the most recent changes to the main branch and create a new bug fix branch off of the branch.
+b) The author stages and commits a new change to their local bugfix branch.
+c) The author is merging their bugfix branch back into main with the "no fast-forward" flag.
+d) The author updates the remote main branch by pushing their local changes onto it.
